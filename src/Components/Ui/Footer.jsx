@@ -36,7 +36,10 @@ const Footer = () => {
               <div className="copyright-text">
                 <p>
                   Copyright &copy; 2024, All Right Reserved
-                  <NavLink to="https://usmanmirza47portfolio.netlify.app/">
+                  <NavLink
+                    to="https://usmanmirza47portfolio.netlify.app/"
+                    target="_blank"
+                  >
                     Usman Mirza || Portfolio
                   </NavLink>
                 </p>
@@ -45,22 +48,34 @@ const Footer = () => {
               <div className="footer-menu">
                 <ul>
                   <li>
-                    <NavLink to="https://usmanmirza47portfolio.netlify.app/#home">
+                    <NavLink
+                      to="https://usmanmirza47portfolio.netlify.app/#home"
+                      target="_blank"
+                    >
                       Home
                     </NavLink>
                   </li>
                   <li>
-                    <NavLink to="https://usmanmirza47portfolio.netlify.app/#about">
+                    <NavLink
+                      to="https://usmanmirza47portfolio.netlify.app/#about"
+                      target="_blank"
+                    >
                       About
                     </NavLink>
                   </li>
                   <li>
-                    <NavLink to="https://usmanmirza47portfolio.netlify.app/#project">
+                    <NavLink
+                      to="https://usmanmirza47portfolio.netlify.app/#project"
+                      target="_blank"
+                    >
                       Project
                     </NavLink>
                   </li>
                   <li>
-                    <NavLink to="https://usmanmirza47portfolio.netlify.app/#contact">
+                    <NavLink
+                      to="https://usmanmirza47portfolio.netlify.app/#contact"
+                      target="_blank"
+                    >
                       Contact
                     </NavLink>
                   </li>
