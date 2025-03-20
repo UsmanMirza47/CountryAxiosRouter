@@ -36,23 +36,33 @@ const Footer = () => {
               <div className="copyright-text">
                 <p>
                   Copyright &copy; 2024, All Right Reserved
-                  <NavLink to="/">Usman Mirza || Portfolio</NavLink>
+                  <NavLink to="https://67dbbc69d59f2af42f1710fc--thriving-cajeta-c01207.netlify.app/">
+                    Usman Mirza || Portfolio
+                  </NavLink>
                 </p>
               </div>
 
               <div className="footer-menu">
                 <ul>
                   <li>
-                    <NavLink to="/">Home</NavLink>
+                    <NavLink to="https://67dbbc69d59f2af42f1710fc--thriving-cajeta-c01207.netlify.app/#home">
+                      Home
+                    </NavLink>
                   </li>
                   <li>
-                    <NavLink to="/about">About</NavLink>
+                    <NavLink to="https://67dbbc69d59f2af42f1710fc--thriving-cajeta-c01207.netlify.app/#about">
+                      About
+                    </NavLink>
                   </li>
                   <li>
-                    <NavLink to="/contact">Contact</NavLink>
+                    <NavLink to="http://67dbbc69d59f2af42f1710fc--thriving-cajeta-c01207.netlify.app/#project">
+                      Project
+                    </NavLink>
                   </li>
                   <li>
-                    <NavLink to="/country">Country</NavLink>
+                    <NavLink to="https://67dbbc69d59f2af42f1710fc--thriving-cajeta-c01207.netlify.app/#contact">
+                      Contact
+                    </NavLink>
                   </li>
                 </ul>
               </div>
