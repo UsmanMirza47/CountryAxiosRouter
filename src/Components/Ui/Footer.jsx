@@ -36,7 +36,7 @@ const Footer = () => {
               <div className="copyright-text">
                 <p>
                   Copyright &copy; 2024, All Right Reserved
-                  <NavLink to="https://67dbbc69d59f2af42f1710fc--thriving-cajeta-c01207.netlify.app/">
+                  <NavLink to="https://usmanmirza47portfolio.netlify.app/">
                     Usman Mirza || Portfolio
                   </NavLink>
                 </p>
@@ -45,22 +45,22 @@ const Footer = () => {
               <div className="footer-menu">
                 <ul>
                   <li>
-                    <NavLink to="https://67dbbc69d59f2af42f1710fc--thriving-cajeta-c01207.netlify.app/#home">
+                    <NavLink to="https://usmanmirza47portfolio.netlify.app/#home">
                       Home
                     </NavLink>
                   </li>
                   <li>
-                    <NavLink to="https://67dbbc69d59f2af42f1710fc--thriving-cajeta-c01207.netlify.app/#about">
+                    <NavLink to="https://usmanmirza47portfolio.netlify.app/#about">
                       About
                     </NavLink>
                   </li>
                   <li>
-                    <NavLink to="http://67dbbc69d59f2af42f1710fc--thriving-cajeta-c01207.netlify.app/#project">
+                    <NavLink to="https://usmanmirza47portfolio.netlify.app/#project">
                       Project
                     </NavLink>
                   </li>
                   <li>
-                    <NavLink to="https://67dbbc69d59f2af42f1710fc--thriving-cajeta-c01207.netlify.app/#contact">
+                    <NavLink to="https://usmanmirza47portfolio.netlify.app/#contact">
                       Contact
                     </NavLink>
                   </li>
